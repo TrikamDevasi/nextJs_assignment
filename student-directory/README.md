@@ -139,3 +139,11 @@ All student data is stored locally in `src/data/students.ts`. No backend, databa
 - **Computer Science** — 4 students
 - **Design** — 2 students
 - **Business** — 2 students
+
+---
+
+## Author
+
+**Trikam Devasi**  
+* Email: [trikam.devasi.cg@outlook.com](mailto:trikam.devasi.cg@outlook.com)
+
